@@ -7,7 +7,8 @@ The dashboard helps analyze employee data and generate workforce insights.
 
 ## 📸 Dashboard Preview
 
-![HR Dashboard]("C:\Users\user\Desktop\HR Analytics Team Dashboard.png")
+![HR Dashboard](<img width="667" height="349" alt="HR Analytics Team Dashboard" src="https://github.com/user-attachments/assets/5570222d-744e-4b60-94c4-8638d89d665a" />
+)
 
 ---
 
