@@ -7,7 +7,7 @@ The dashboard helps analyze employee data and generate workforce insights.
 
 ## 📸 Dashboard Preview
 
-![HR Dashboard](file:///C:/Users/user/Downloads/HR%20Analytics%20Team%20Dashboard.pdf)
+![HR Dashboard]("C:\Users\user\Desktop\HR Analytics Team Dashboard.png")
 
 ---
 
